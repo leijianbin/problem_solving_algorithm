@@ -1,6 +1,6 @@
 <sub>v0.1</sub>
 
-# Stayman Problem-Solving Algorithm
+# Problem-Solving Algorithm
 
 This is a general-purpose problem-solving algorithm primarily designed for technical problems.
 
