@@ -62,7 +62,9 @@ For example, I think there is an interesting example: We introduced a clock-in (
 
 The chart can display the evolutionary path of the "Clock-in System" from original intention to misunderstanding:
 
-1. System Original Intention → 2. Implementation Process → 3. Derivative Problems → 4. Deviation from Goal → 5. Effect Evaluation
+<!-- 1. System Original Intention → 2. Implementation Process → 3. Derivative Problems → 4. Deviation from Goal → 5. Effect Evaluation -->
+![3-Process_Evolution_Diagram](assets/3-Process_Evolution_Diagram.jpeg) 
+
 
 ---
 
@@ -368,6 +370,8 @@ Here is a very common learning model called Bloom’s Taxonomy. I briefly mentio
 This framework divides learning goals or mastery levels into six layers. In fact, the learning everyone does in school from childhood to adulthood generally follows this order. For example, junior and senior high school textbooks and exam outlines are often layered by "understand, master, apply," and the overall idea is consistent.
 
 **Chart: Bloom’s Taxonomy Six Levels (Simplified Pyramid)**
+![blooms_taxonomy_pyramid_fixed](assets/blooms_taxonomy_pyramid_fixed.svg) 
+
 
 ---
 
@@ -616,6 +620,7 @@ But if it were another situation, for example, this project is not in such a hur
 So, I feel that although Bloom divides learning into six levels, in the technical field, summarizing it into three layers is actually enough: First is knowing this thing exists; second is being able to apply it practically; third is being able to design solutions based on existing knowledge. These three learning goals determine our different choices in learning strategies and also mean we need flexible and changing learning methods at different stages.
 
 **Chart: Technical Learning Three-Level Goal Comparison Chart**
+![technical_learning_3_levels_english](assets/technical_learning_3_levels_english.svg) 
 
 ---
 
@@ -745,7 +750,9 @@ But if during learning I can think: "Oh, for example, if I want to develop a cer
 
 Later when I really encounter a similar problem, I will naturally recall: "Did I read something relevant somewhere before?" Then I can quickly associate the tool or framework that might solve this problem, and then go check materials and learn details deeply. This is a "Problem-Driven" learning path.
 
-**Chart: Problem-Driven Learning Path Flowchart**
+**Chart: Problem-Driven Learning Path Flowchart**char
+![problem_driven_learning_path_en](assets/problem_driven_learning_path_en.svg)
+
 
 ---
 
@@ -932,12 +939,13 @@ A more common problem is: You want to learn a hundred things, but you spend eigh
 That is to say, you spent a lot of time spinning repeatedly in content you already understand, trying to solve the problem, but actually the true best solution, the simplest way, might be in the module you haven't looked at at all. This "missing the best path" due to insufficient coverage is a trap many people easily fall into when learning or solving problems.
 
 **Chart: Time Investment vs. Knowledge Coverage Risk Diagram**
+![Chart](assets/3-Knowledge_Coverage_Risk.png)
 
-TODO Draw Bar Comparison Chart:
+<!-- TODO Draw Bar Comparison Chart:
 
 * x-axis: Different modules (Mastered vs. Untouched)
 * y-axis: Time Investment / Output Effect
-* Mark "Blind Spot Risk" area, emphasize need for broad coverage before focusing
+* Mark "Blind Spot Risk" area, emphasize need for broad coverage before focusing -->
 
 ---
 
