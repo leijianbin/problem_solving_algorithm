@@ -370,6 +370,7 @@ Here is a very common learning model called Bloom’s Taxonomy. I briefly mentio
 This framework divides learning goals or mastery levels into six layers. In fact, the learning everyone does in school from childhood to adulthood generally follows this order. For example, junior and senior high school textbooks and exam outlines are often layered by "understand, master, apply," and the overall idea is consistent.
 
 **Chart: Bloom’s Taxonomy Six Levels (Simplified Pyramid)**
+
 ![blooms_taxonomy_pyramid_fixed](assets/blooms_taxonomy_pyramid_fixed.svg) 
 
 
